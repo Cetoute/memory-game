@@ -121,6 +121,7 @@ h1 {
  * Modal
  */
 
+/* Modal reference to online website*/
 .modal {
 position: absolute;
 top: -150%;
